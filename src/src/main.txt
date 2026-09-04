@@ -1,1 +1,2 @@
-Archivo inicial del módulo.
+Módulo inicial del proyecto.
+Repositorio preparado para integración continua.
