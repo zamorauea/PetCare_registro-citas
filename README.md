@@ -1,6 +1,6 @@
-# Nombre de mi proyecto
+Nombre de mi proyecto
 Estudio de Caso (Avance 2/4) — Configurar repositorio Git y flujo CI para el módulo.
-## Módulo
+Módulo
 Estudio de Caso (Avance 2/4) — Configurar repositorio Git y flujo CI para el módulo.
-## Integrantes
+Integrantes
 Zamora Salgado Viviana Estefania
