@@ -17,5 +17,12 @@ jobs:
       - name: Instalar pytest
         run: pip install pytest
 
+      - name: Verificar archivos
+        run: |
+          pwd
+          ls -la
+          ls -la src
+          ls -la tests
+
       - name: Ejecutar pruebas
-        run: pytest
+        run: python -m pytest -v
