@@ -1,5 +1,20 @@
-## Estudio de Caso (Avance 2/4) — Configurar repositorio Git y flujo CI para el módulo.
+## Módulo
+
+Registro de Citas
+
 ## Integrantes
-## Zamora Salgado Viviana Estefania
-## Chileno Mendoza Dioselin Gabriela
-## Chimbo Sisa Carmen Amelia 
+
+* Viviana Zamora
+* Chileno Mendoza Dioselin Gabriela
+*  Chimbo Sisa Carmen Amelia 
+  
+## Descripción
+
+Sistema para registrar y gestionar citas de mascotas.
+
+## Flujo de ramas
+
+* `main`: rama estable.
+* `feature/registrar-cita`: rama para desarrollar el registro de citas.
+
+Los cambios se realizan en la rama de trabajo y luego se integran a `main` mediante un Pull Request.
